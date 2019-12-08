@@ -20,7 +20,7 @@ java TestAnagrams
 ```
 
 ## [2] Redundent
-To run the code use and provide the input in one line.
+To run the code use given command and provide the input in one line.
 ```
 java TestRedundentBraces
 ```
