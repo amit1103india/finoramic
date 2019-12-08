@@ -1,4 +1,5 @@
-public class Solution {
+
+public class RedundantBraces{
     public int braces(String A) {
         char[] paranthesis = new char[A.length()/2];
         boolean[] consecutive = new boolean[A.length()/2];
