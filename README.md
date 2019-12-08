@@ -14,14 +14,13 @@ $ javac *.java
 ```
 
 ## [1] Anagram 
-To run the code useand provide the input in one line.
+To run the code use given command and provide the input in one line.
 ```
 java TestAnagrams
 ```
 
 ## [2] Redundent
-To run the code useand provide the input in one line.
+To run the code use and provide the input in one line.
 ```
 java TestRedundentBraces
 ```
-and provide the input in one line.
